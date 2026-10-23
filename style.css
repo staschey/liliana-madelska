@@ -46,8 +46,7 @@ body{
 
 .wrap{ max-width: 46rem; margin: 0 auto; padding: 0 1.25rem 4.5rem; }
 
-/* ---- language switcher (hidden for now — remove this line to restore) ---- */
-.topbar{ display: none; }
+/* ---- language switcher ---- */
 .topbar{
   position: sticky;
   top: 0;
